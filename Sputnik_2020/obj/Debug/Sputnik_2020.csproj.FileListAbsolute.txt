@@ -1,0 +1,35 @@
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.CoreCompileInputs.cache
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\SGP4_DLL.dll
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.pdb
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\SGP4_DLL.pdb
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll.config
+C:\Users\cwgray1\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.AssemblyReference.cache
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\SGP4_DLL.dll
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.pdb
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll.config
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\SGP4_DLL.pdb
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.AssemblyReference.cache
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.CoreCompileInputs.cache
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.CopyComplete
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\OneDrive - NASA\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.AssemblyReference.cache
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.csproj.CoreCompileInputs.cache
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.exe.config
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.pdb
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_.640A1945.Up2Date
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.exe
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\obj\Debug\Sputnik_2020.pdb
+C:\Users\cwgray1\Documents\source\repos\Sputnik_2020\Sputnik_2020\bin\Debug\OrbitalElement_Tools.dll.config
